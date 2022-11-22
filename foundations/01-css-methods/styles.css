@@ -1,0 +1,7 @@
+/* CSS frame work for */    
+div {
+    color: white;
+    background: red;
+    font-size: 32px;
+    text-align: center;
+}
