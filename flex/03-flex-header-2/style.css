@@ -43,6 +43,30 @@ a {
   color: rebeccapurple;
 }
 
+
+.header{
+  padding: 15px;
+  display: flex;
+  align-items:flex-start;
+  justify-content:left;
+  border: 10px;
+  border-color: aqua;
+  gap: 12px;
+
+}
+
 ul {
   list-style-type: none;
+  display: flex;
+  padding: 0px;
+  gap: 8px;
+  flex-basis: 1 1 80%;
+  width: 1000px;
+}
+
+.rightheader {
+  display: flex;
+ width: fit-content;
+ flex-shrink: 0;
+ gap: 15px;
 }
